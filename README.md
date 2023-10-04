@@ -13,3 +13,15 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 ## tailwind
 
 - [Difference between `@tailwind` and `@import tailwind/`](/tailwind/import-tailwind.md)
+
+---
+
+2 TILs so far:
+
+## github
+
+- [Run GitHub Actions locally](/github/run-github-actions-locally.md)
+
+## tailwind
+
+- [Difference between `@tailwind` and `@import tailwind/`](/tailwind/import-tailwind.md)
