@@ -79,5 +79,5 @@ jobs:
         run: |-
           git config --global user.email "actions@users.noreply.github.com"
           git config --global user.name "tilbot"
-          git diff --quiet || git commit --all --message "Update README.md or rss.xml"
+          git diff --quiet || git commit --all --message "Update README.md"
           git push
