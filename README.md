@@ -6,7 +6,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-8 TILs so far:
+10 TILs so far:
 
 ## css
 
@@ -23,7 +23,15 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 - [Run GitHub Actions locally](/github/run-github-actions-locally.md)
 
+## html
+
+- [Check and generate your site's Favicons](/html/check-and-generate-favicons.md)
+
 ## tailwind
 
 - [Difference between `@tailwind` and `@import tailwind/`](/tailwind/import-tailwind.md)
 - [Specify Paths For Purging Unused CSS](/tailwind/specify-paths-for-purging-unused-css.md)
+
+## vim
+
+- [Toggling Case with vim](/vim/toggling-case-with-vim.md)
