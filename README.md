@@ -6,7 +6,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-13 TILs so far:
+15 TILs so far:
 
 ## css
 
@@ -28,10 +28,15 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 - [Check and generate your site's Favicons](/html/check-and-generate-favicons.md)
 - [Create an SVG sprite sheet](/html/create-an-svg-sprite-sheet.md)
 
+## javascript
+
+- [Sort array of numbers](/javascript/sort-numbers.md)
+
 ## tailwind
 
 - [Tailwind divide to add border between](/tailwind/divide-to-add-border-between.md)
 - [Difference between `@tailwind` and `@import tailwind/`](/tailwind/import-tailwind.md)
+- [!important classes in tailwind](/tailwind/important-classes-in-tailwind.md)
 - [Specify Paths For Purging Unused CSS](/tailwind/specify-paths-for-purging-unused-css.md)
 - [Style conditionally based on data and ARIA attributes](/tailwind/style-conditionally-based-on-data-and-aria-attributes.md)
 
