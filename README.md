@@ -6,7 +6,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-4 TILs so far:
+5 TILs so far:
 
 ## git
 
@@ -20,3 +20,4 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 ## tailwind
 
 - [Difference between `@tailwind` and `@import tailwind/`](/tailwind/import-tailwind.md)
+- [Specify Paths For Purging Unused CSS](/tailwind/specify-paths-for-purging-unused-css.md)
