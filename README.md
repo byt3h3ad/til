@@ -6,7 +6,12 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-2 TILs so far:
+4 TILs so far:
+
+## git
+
+- [Clone A Repo Just For The Files, Without History](/git/clone-a-repo-just-for-the-files-without-history.md)
+- [Update The URL Of A Remote](/git/update-the-url-of-a-remote.md)
 
 ## github
 
