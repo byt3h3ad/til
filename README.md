@@ -6,7 +6,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-15 TILs so far:
+16 TILs so far:
 
 ## css
 
@@ -42,4 +42,5 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ## vim
 
+- [Indenting Code](/vim/indenting-code.md)
 - [Toggling Case with vim](/vim/toggling-case-with-vim.md)
