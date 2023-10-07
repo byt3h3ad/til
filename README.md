@@ -6,7 +6,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-16 TILs so far:
+17 TILs so far:
 
 ## css
 
@@ -31,6 +31,10 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 ## javascript
 
 - [Sort array of numbers](/javascript/sort-numbers.md)
+
+## shell
+
+- [Printing JSON in the Shell](/shell/printing-json.md)
 
 ## tailwind
 
