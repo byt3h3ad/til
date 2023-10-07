@@ -6,7 +6,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-17 TILs so far:
+18 TILs so far:
 
 ## css
 
@@ -27,6 +27,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 - [Check and generate your site's Favicons](/html/check-and-generate-favicons.md)
 - [Create an SVG sprite sheet](/html/create-an-svg-sprite-sheet.md)
+- [Yet Another Email Hiding Technique ](/html/email-hiding-technique.md)
 
 ## javascript
 
