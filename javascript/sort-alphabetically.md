@@ -38,3 +38,5 @@ function sortAlphabetically(arr) {
   return arr.sort((a, b) => collator.compare(a.firstName, b.firstName));
 }
 ```
+
+[source](https://bytes.dev/archives/214)
