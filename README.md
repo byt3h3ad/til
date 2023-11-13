@@ -6,12 +6,13 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-21 TILs so far:
+22 TILs so far:
 
 ## css
 
 - [Apply Styles To The Last Child Of A Specific Type](/css/apply-styles-to-the-last-child-of-a-specific-type.md)
 - [Conditional Styling For Unsupported CSS Features](/css/conditional-styling-for-unsupported-css-features.md)
+- [Finding Empty Elements With `:empty`](/css/finding-empty-elements.md)
 - [:root Has Higher Specificity Than html](/css/root-has-higher-specificity-than-html.md)
 
 ## git
