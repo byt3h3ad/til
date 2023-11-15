@@ -6,7 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-22 TILs so far:
+Last updated: Wed Nov 15 2023, 19:27:36 GMT+0000 (Coordinated Universal Time).
+
+23 TILs so far:
 
 ## css
 
@@ -18,6 +20,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 ## git
 
 - [Clone A Repo Just For The Files, Without History](/git/clone-a-repo-just-for-the-files-without-history.md)
+- [Editing Old Commits Using CLI or with Lazygit](/git/edit-old-commit.md)
 - [Update The URL Of A Remote](/git/update-the-url-of-a-remote.md)
 
 ## github
