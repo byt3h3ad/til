@@ -48,6 +48,10 @@ jobs:
               .sort()
               .map(name => name.split("/").slice(-2));
 
+            // add last updated
+            const now = new Date();
+            readme += `\nLast updated: ${now.toDateString()}, ${now.toTimeString()}.\n`;
+            
             // add summary
             readme += `\n${entries.length} TILs so far:\n`;
 
