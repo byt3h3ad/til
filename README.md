@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Wed Nov 15 2023, 19:27:36 GMT+0000 (Coordinated Universal Time).
+Last updated: Tue Nov 21 2023, 04:52:08 GMT+0000 (Coordinated Universal Time).
 
-23 TILs so far:
+24 TILs so far:
 
 ## css
 
@@ -35,6 +35,7 @@ Last updated: Wed Nov 15 2023, 19:27:36 GMT+0000 (Coordinated Universal Time).
 
 ## javascript
 
+- [Capitalise Initials](/javascript/capitalise-initials.md)
 - [The English Alphabet as a String](/javascript/english-alphabets.md)
 - [How to Not Fill Up an `Array`](/javascript/filling-up-array.md)
 - [Sort Alphabetically](/javascript/sort-alphabetically.md)
