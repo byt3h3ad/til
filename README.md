@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Thu Dec 28 2023, 13:17:32 GMT+0000 (Coordinated Universal Time).
+Last updated: Thu Dec 28 2023, 13:55:04 GMT+0000 (Coordinated Universal Time).
 
-27 TILs so far:
+28 TILs so far:
 
 ## bash
 
@@ -32,6 +32,7 @@ Last updated: Thu Dec 28 2023, 13:17:32 GMT+0000 (Coordinated Universal Time).
 ## github
 
 - [Run GitHub Actions locally](/github/run-github-actions-locally.md)
+- [Set environment variables for all steps in a GitHub Action](/github/set-environment-for-all-steps.md)
 
 ## html
 
