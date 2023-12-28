@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Thu Dec 28 2023, 12:55:21 GMT+0000 (Coordinated Universal Time).
+Last updated: Thu Dec 28 2023, 13:17:32 GMT+0000 (Coordinated Universal Time).
 
-26 TILs so far:
+27 TILs so far:
 
 ## bash
 
@@ -18,6 +18,7 @@ Last updated: Thu Dec 28 2023, 12:55:21 GMT+0000 (Coordinated Universal Time).
 
 - [Apply Styles To The Last Child Of A Specific Type](/css/apply-styles-to-the-last-child-of-a-specific-type.md)
 - [Conditional Styling For Unsupported CSS Features](/css/conditional-styling-for-unsupported-css-features.md)
+- [Dynamically change styles from HTML or JSX](/css/dynamically-change-styles-from-html-or-jsx.md)
 - [Finding Empty Elements With `:empty`](/css/finding-empty-elements.md)
 - [:root Has Higher Specificity Than html](/css/root-has-higher-specificity-than-html.md)
 
