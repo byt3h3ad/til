@@ -6,9 +6,13 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Tue Nov 21 2023, 04:52:08 GMT+0000 (Coordinated Universal Time).
+Last updated: Thu Dec 28 2023, 01:47:36 GMT+0000 (Coordinated Universal Time).
 
-24 TILs so far:
+25 TILs so far:
+
+## bash
+
+- [CDPATH: Easily Navigate Directories in the Terminal](/bash/cdpath-easily-navigate-directories-in-the-terminal.md)
 
 ## css
 
