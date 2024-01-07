@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Thu Dec 28 2023, 14:08:47 GMT+0000 (Coordinated Universal Time).
+Last updated: Sun Jan 07 2024, 19:19:08 GMT+0000 (Coordinated Universal Time).
 
-29 TILs so far:
+30 TILs so far:
 
 ## bash
 
@@ -27,6 +27,7 @@ Last updated: Thu Dec 28 2023, 14:08:47 GMT+0000 (Coordinated Universal Time).
 - [Clone A Repo Just For The Files, Without History](/git/clone-a-repo-just-for-the-files-without-history.md)
 - [Editing Old Commits Using CLI or with Lazygit](/git/edit-old-commit.md)
 - [Show file difference in `git` style](/git/file-difference-in-git-style.md)
+- [Easier Code reviews with Git Colored Move Diffs](/git/git-colored-move-diffs.md)
 - [Update The URL Of A Remote](/git/update-the-url-of-a-remote.md)
 
 ## github
