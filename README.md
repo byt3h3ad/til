@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Sun Jan 07 2024, 19:19:08 GMT+0000 (Coordinated Universal Time).
+Last updated: Mon Jan 29 2024, 20:31:42 GMT+0000 (Coordinated Universal Time).
 
-30 TILs so far:
+31 TILs so far:
 
 ## bash
 
@@ -61,6 +61,7 @@ Last updated: Sun Jan 07 2024, 19:19:08 GMT+0000 (Coordinated Universal Time).
 - [!important classes in tailwind](/tailwind/important-classes-in-tailwind.md)
 - [Specify Paths For Purging Unused CSS](/tailwind/specify-paths-for-purging-unused-css.md)
 - [Style conditionally based on data and ARIA attributes](/tailwind/style-conditionally-based-on-data-and-aria-attributes.md)
+- [Write better CSS with `eslint-plugin-tailwindcss`](/tailwind/write-better-tailwind-with-eslint.md)
 
 ## vim
 
