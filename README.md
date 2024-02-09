@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Thu Feb 08 2024, 17:07:42 GMT+0000 (Coordinated Universal Time).
+Last updated: Fri Feb 09 2024, 06:32:54 GMT+0000 (Coordinated Universal Time).
 
-33 TILs so far:
+34 TILs so far:
 
 ## bash
 
@@ -47,6 +47,7 @@ Last updated: Thu Feb 08 2024, 17:07:42 GMT+0000 (Coordinated Universal Time).
 
 - [Capitalise Initials](/javascript/capitalise-initials.md)
 - [The English Alphabet as a String](/javascript/english-alphabets.md)
+- [Event Delegation in JavaScript](/javascript/event-delegation.md)
 - [How to Not Fill Up an `Array`](/javascript/filling-up-array.md)
 - [Remove the Duplicate Elements from the Array of Objects](/javascript/remove-duplicates-from-array-of-objects.md)
 - [Sort Alphabetically](/javascript/sort-alphabetically.md)
