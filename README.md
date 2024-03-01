@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Fri Mar 01 2024, 14:40:16 GMT+0000 (Coordinated Universal Time).
+Last updated: Fri Mar 01 2024, 15:48:12 GMT+0000 (Coordinated Universal Time).
 
-36 TILs so far:
+37 TILs so far:
 
 ## bash
 
@@ -30,6 +30,7 @@ Last updated: Fri Mar 01 2024, 14:40:16 GMT+0000 (Coordinated Universal Time).
 - [Easier Code reviews with Git Colored Move Diffs](/git/git-colored-move-diffs.md)
 - [Update The URL Of A Remote](/git/update-the-url-of-a-remote.md)
 - [Using git offline](/git/using-git-offline.md)
+- [New Ways to Walk Through Past Commits in git](/git/walk-through-past-commits.md)
 
 ## github
 
