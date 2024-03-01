@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Fri Feb 09 2024, 06:32:54 GMT+0000 (Coordinated Universal Time).
+Last updated: Fri Mar 01 2024, 06:43:46 GMT+0000 (Coordinated Universal Time).
 
-34 TILs so far:
+35 TILs so far:
 
 ## bash
 
@@ -52,6 +52,10 @@ Last updated: Fri Feb 09 2024, 06:32:54 GMT+0000 (Coordinated Universal Time).
 - [Remove the Duplicate Elements from the Array of Objects](/javascript/remove-duplicates-from-array-of-objects.md)
 - [Sort Alphabetically](/javascript/sort-alphabetically.md)
 - [Sort Array of Numbers](/javascript/sort-numbers.md)
+
+## react
+
+- [React Hooks in a Nutshell](/react/react-hooks.md)
 
 ## shell
 
