@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Fri Mar 01 2024, 15:48:12 GMT+0000 (Coordinated Universal Time).
+Last updated: Sat Mar 09 2024, 21:07:20 GMT+0000 (Coordinated Universal Time).
 
-37 TILs so far:
+39 TILs so far:
 
 ## bash
 
@@ -51,9 +51,14 @@ Last updated: Fri Mar 01 2024, 15:48:12 GMT+0000 (Coordinated Universal Time).
 - [Event Delegation in JavaScript](/javascript/event-delegation.md)
 - [How to Not Fill Up an `Array`](/javascript/filling-up-array.md)
 - [Remove the Duplicate Elements from the Array of Objects](/javascript/remove-duplicates-from-array-of-objects.md)
+- [A Better Number() and Number.parseFloat()](/javascript/safe-number-parse.md)
 - [Sort Alphabetically](/javascript/sort-alphabetically.md)
 - [Sort Array of Numbers](/javascript/sort-numbers.md)
 - [Be informed of when a browser document is visible](/javascript/visibility-of-browser-document.md)
+
+## node
+
+- [How to run multiple scripts simultaneously](/node/run-multiple-scripts.md)
 
 ## react
 
