@@ -2,7 +2,7 @@
 
 The how and why of `Uncaught Error: Too many re-renders. React limits the number of renders to prevent an infinite loop.`
 
-- **Updating state inside the render**
+## - Updating state inside the render
 
 ```JSX
 function App() {
@@ -16,9 +16,9 @@ If you update the state directly inside your render method or a body of a functi
 
 *State updates → triggers re-render → state updates → triggers re-render → …*
 
-FIX:
+**FIX:**
 
-Use useEffect with an empty array as a dependency.
+Use `useEffect` with an empty array as a dependency.
 
 ```JSX
 function App() {
@@ -30,7 +30,7 @@ function App() {
 }
 ```
 
-- **Infinite loop in UseEffect**
+## - Infinite loop in UseEffect
 
 ```JSX
 function App() {
@@ -42,11 +42,11 @@ function App() {
 }
 ```
 
-If you keep updating a state inside useEffect with a property you update set as a dependency, it will cause an infinite loop.
+If you keep updating a state inside `useEffect` with a property you update set as a dependency, it will cause an infinite loop.
 
 *count updates → useEffect detects updated dependency → count updates → useEffect detects updated dependency → …*
 
-FIX:
+**FIX:**
 
 If you want to update a state based on its previous value, use a functional update. This way, you can remove state property from the dependency list and prevent an infinite loop.
 
@@ -60,7 +60,7 @@ function App() {
 }
 ```
 
-- **Incorrectly set event handlers**
+## - Incorrectly set event handlers
 
 ```JSX
 export default function App() {
@@ -71,11 +71,11 @@ export default function App() {
 }
 ```
 
-It is not the right way to set event handlers. You need to provide a function to the `onClick`, not the result of the function execution. By executing a function before setting a handler, you update a state inside the render, which causes an infinite loop.
+It is not the right way to set event handlers. You need to provide a function to the `onClick`, not the result of the function execution. By executing a function before setting a handler, you update a state inside the render, which causes an infinite loop[^1].
 
 *State updates → triggers re-render → state updates → triggers re-render → …*
 
-FIX:
+**FIX:**
 
 Set a function to `onClick` event. It is a proper way to set event handlers. This way state will only update after a click of a button and won’t cause an infinite loop.
 
@@ -87,4 +87,6 @@ export default function App() {
   );
 }
 ```
+
+[^1]: [further reading](https://alexsidorenko.com/blog/react-infinite-loop/)
 
