@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Sat Mar 09 2024, 21:07:20 GMT+0000 (Coordinated Universal Time).
+Last updated: Tue Mar 12 2024, 20:30:53 GMT+0000 (Coordinated Universal Time).
 
-39 TILs so far:
+40 TILs so far:
 
 ## bash
 
@@ -62,6 +62,7 @@ Last updated: Sat Mar 09 2024, 21:07:20 GMT+0000 (Coordinated Universal Time).
 
 ## react
 
+- [Common Reasons of Infinite Loops in React and How to Fix Them](/react/multiple-renders-and-fixes.md)
 - [React Hooks in a Nutshell](/react/react-hooks.md)
 
 ## shell
