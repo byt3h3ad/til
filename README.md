@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Fri May 10 2024, 22:56:12 GMT+0000 (Coordinated Universal Time).
+Last updated: Fri May 10 2024, 22:59:48 GMT+0000 (Coordinated Universal Time).
 
-42 TILs so far:
+43 TILs so far:
 
 ## bash
 
@@ -45,6 +45,7 @@ Last updated: Fri May 10 2024, 22:56:12 GMT+0000 (Coordinated Universal Time).
 - [Determine Which Button Submitted The Form](/html/determine-which-button-submitted-the-form.md)
 - [disabled vs aria-disabled attributes](/html/disabled-vs-aria-disabled-on-form-elements.md)
 - [Yet Another Email Hiding Technique ](/html/email-hiding-technique.md)
+- [Submit A Form With A Button Outside The Form](/html/submit-a-form-with-a-button-outside-the-form.md)
 
 ## javascript
 
