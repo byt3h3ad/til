@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Tue Mar 12 2024, 20:41:26 GMT+0000 (Coordinated Universal Time).
+Last updated: Fri May 10 2024, 22:44:43 GMT+0000 (Coordinated Universal Time).
 
-40 TILs so far:
+41 TILs so far:
 
 ## bash
 
@@ -42,6 +42,7 @@ Last updated: Tue Mar 12 2024, 20:41:26 GMT+0000 (Coordinated Universal Time).
 
 - [Check and generate your site's Favicons](/html/check-and-generate-favicons.md)
 - [Create an SVG sprite sheet](/html/create-an-svg-sprite-sheet.md)
+- [disabled vs aria-disabled attributes](/html/disabled-vs-aria-disabled-on-form-elements.md)
 - [Yet Another Email Hiding Technique ](/html/email-hiding-technique.md)
 
 ## javascript
