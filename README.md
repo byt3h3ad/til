@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Fri May 10 2024, 22:59:48 GMT+0000 (Coordinated Universal Time).
+Last updated: Sat May 18 2024, 18:08:42 GMT+0000 (Coordinated Universal Time).
 
-43 TILs so far:
+44 TILs so far:
 
 ## bash
 
@@ -58,6 +58,10 @@ Last updated: Fri May 10 2024, 22:59:48 GMT+0000 (Coordinated Universal Time).
 - [Sort Alphabetically](/javascript/sort-alphabetically.md)
 - [Sort Array of Numbers](/javascript/sort-numbers.md)
 - [Be informed of when a browser document is visible](/javascript/visibility-of-browser-document.md)
+
+## nextjs
+
+- [Debug Next.js Fetch Requests](/nextjs/debug-fetch-requests.md)
 
 ## node
 
