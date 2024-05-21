@@ -33,25 +33,8 @@ const Component = () => {
 > )
 > ```
 
-The same functionality can be achieve the same with useRef - 
-
-```js
-const Component = () => {
-  // ✅ also works, but meh
-  const resource = React.useRef(null)
-  if (!resource.current) {
-    resource.current = new Resource()
-  }
-  return (
-    <ResourceProvider resource={resource.current}>
-      <App />
-    </ResourceProvider>
-  )
-}
-```
-
-However, this looks rather convoluted, and TypeScript will also not like it, because `resource.current` can technically be `null`. 
-
 [source](https://x.com/housecor/status/1792526262751117371)
 
 [further reading](https://tkdodo.eu/blog/use-state-for-one-time-initializations)
+
+[why not to use useRef](https://x.com/TkDodo/status/1792549972539273278)
