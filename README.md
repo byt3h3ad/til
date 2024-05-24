@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Tue May 21 2024, 04:27:40 GMT+0000 (Coordinated Universal Time).
+Last updated: Fri May 24 2024, 07:30:21 GMT+0000 (Coordinated Universal Time).
 
-45 TILs so far:
+46 TILs so far:
 
 ## bash
 
@@ -69,6 +69,7 @@ Last updated: Tue May 21 2024, 04:27:40 GMT+0000 (Coordinated Universal Time).
 
 ## react
 
+- [Simplify Your Components with Finite State Machines and Derived States](/react/finite-state-machine.md)
 - [Common Reasons of Infinite Loops in React and How to Fix Them](/react/multiple-renders-and-fixes.md)
 - [Using useState for one-time initialisations in React Components](/react/one-time-initialisation-in-component.md)
 - [React Hooks in a Nutshell](/react/react-hooks.md)
