@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Fri May 24 2024, 07:30:21 GMT+0000 (Coordinated Universal Time).
+Last updated: Sun Jun 16 2024, 16:43:04 GMT+0000 (Coordinated Universal Time).
 
-46 TILs so far:
+47 TILs so far:
 
 ## bash
 
@@ -86,6 +86,10 @@ Last updated: Fri May 24 2024, 07:30:21 GMT+0000 (Coordinated Universal Time).
 - [Specify Paths For Purging Unused CSS](/tailwind/specify-paths-for-purging-unused-css.md)
 - [Style conditionally based on data and ARIA attributes](/tailwind/style-conditionally-based-on-data-and-aria-attributes.md)
 - [Write better CSS with `eslint-plugin-tailwindcss`](/tailwind/write-better-tailwind-with-eslint.md)
+
+## vercel
+
+- [Deploy An App Without Pushing An Empty Commit](/vercel/deploy-an-app-without-pushing-an-empty-commit.md)
 
 ## vim
 
