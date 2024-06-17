@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Sun Jun 16 2024, 16:43:04 GMT+0000 (Coordinated Universal Time).
+Last updated: Mon Jun 17 2024, 19:15:15 GMT+0000 (Coordinated Universal Time).
 
-47 TILs so far:
+48 TILs so far:
 
 ## bash
 
@@ -89,6 +89,7 @@ Last updated: Sun Jun 16 2024, 16:43:04 GMT+0000 (Coordinated Universal Time).
 
 ## vercel
 
+- [Add Web Server Layer Redirects](/vercel/add-web-server-layer-redirects.md)
 - [Deploy An App Without Pushing An Empty Commit](/vercel/deploy-an-app-without-pushing-an-empty-commit.md)
 
 ## vim
