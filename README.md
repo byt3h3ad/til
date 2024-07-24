@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Mon Jun 17 2024, 19:15:15 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Jul 24 2024, 05:16:00 GMT+0000 (Coordinated Universal Time).
 
-48 TILs so far:
+49 TILs so far:
 
 ## bash
 
@@ -17,6 +17,7 @@ Last updated: Mon Jun 17 2024, 19:15:15 GMT+0000 (Coordinated Universal Time).
 ## css
 
 - [Apply Styles To The Last Child Of A Specific Type](/css/apply-styles-to-the-last-child-of-a-specific-type.md)
+- [Astro has built-in support for `clsx`](/css/clsx-in-astro.md)
 - [Conditional Styling For Unsupported CSS Features](/css/conditional-styling-for-unsupported-css-features.md)
 - [Dynamically change styles from HTML or JSX](/css/dynamically-change-styles-from-html-or-jsx.md)
 - [Finding Empty Elements With `:empty`](/css/finding-empty-elements.md)
