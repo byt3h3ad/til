@@ -6,9 +6,13 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Wed Jul 24 2024, 05:16:00 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Sep 11 2024, 11:15:48 GMT+0000 (Coordinated Universal Time).
 
-49 TILs so far:
+50 TILs so far:
+
+## astro
+
+- [How to get query strings in Astro](/astro/search-params-in-astro.md)
 
 ## bash
 
