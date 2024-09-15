@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Wed Sep 11 2024, 11:15:48 GMT+0000 (Coordinated Universal Time).
+Last updated: Sun Sep 15 2024, 10:26:00 GMT+0000 (Coordinated Universal Time).
 
-50 TILs so far:
+51 TILs so far:
 
 ## astro
 
@@ -46,6 +46,7 @@ Last updated: Wed Sep 11 2024, 11:15:48 GMT+0000 (Coordinated Universal Time).
 ## html
 
 - [Check and generate your site's Favicons](/html/check-and-generate-favicons.md)
+- [Quickly Find the Element That Is Causing Horizontal Scrolling](/html/check-node-overflow.md)
 - [Create an SVG sprite sheet](/html/create-an-svg-sprite-sheet.md)
 - [Determine Which Button Submitted The Form](/html/determine-which-button-submitted-the-form.md)
 - [disabled vs aria-disabled attributes](/html/disabled-vs-aria-disabled-on-form-elements.md)
