@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Sun Sep 15 2024, 10:26:00 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Sep 18 2024, 20:52:23 GMT+0000 (Coordinated Universal Time).
 
-51 TILs so far:
+52 TILs so far:
 
 ## astro
 
@@ -68,6 +68,7 @@ Last updated: Sun Sep 15 2024, 10:26:00 GMT+0000 (Coordinated Universal Time).
 ## nextjs
 
 - [Debug Next.js Fetch Requests](/nextjs/debug-fetch-requests.md)
+- [Tailwind helper to show current media query size](/nextjs/tailwind-indicator.md)
 
 ## node
 
