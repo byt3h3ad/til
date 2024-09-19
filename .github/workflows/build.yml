@@ -50,7 +50,7 @@ jobs:
 
             // add last updated
             const now = new Date();
-            readme += `\nLast updated: ${now.toLocaleString( { timeZone: "IST" } )}.\n`;
+            readme += `\nLast updated: ${now.toDateString()}, ${now.toTimeString()}.\n`;
 
             // add summary
             readme += `\n${entries.length} TILs so far:\n`;
