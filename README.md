@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Thu Sep 19 2024, 10:30:33 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Oct 23 2024, 05:36:39 GMT+0000 (Coordinated Universal Time).
 
-52 TILs so far:
+53 TILs so far:
 
 ## astro
 
@@ -26,6 +26,7 @@ Last updated: Thu Sep 19 2024, 10:30:33 GMT+0000 (Coordinated Universal Time).
 - [Dynamically change styles from HTML or JSX](/css/dynamically-change-styles-from-html-or-jsx.md)
 - [Finding Empty Elements With `:empty`](/css/finding-empty-elements.md)
 - [:root Has Higher Specificity Than html](/css/root-has-higher-specificity-than-html.md)
+- [Auto-resizing textarea/input styles](/css/textarea-styles.md)
 
 ## git
 
