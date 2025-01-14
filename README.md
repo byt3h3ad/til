@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Tue Jan 07 2025, 19:17:28 GMT+0000 (Coordinated Universal Time).
+Last updated: Tue Jan 14 2025, 07:32:50 GMT+0000 (Coordinated Universal Time).
 
-56 TILs so far:
+57 TILs so far:
 
 ## astro
 
@@ -76,6 +76,10 @@ Last updated: Tue Jan 07 2025, 19:17:28 GMT+0000 (Coordinated Universal Time).
 ## node
 
 - [How to run multiple scripts simultaneously](/node/run-multiple-scripts.md)
+
+## python
+
+- [Scripting with uv](/python/running-scripts-with-uv.md)
 
 ## react
 
