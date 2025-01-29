@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Tue Jan 14 2025, 07:40:13 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Jan 29 2025, 05:09:57 GMT+0000 (Coordinated Universal Time).
 
-57 TILs so far:
+58 TILs so far:
 
 ## astro
 
@@ -88,6 +88,7 @@ Last updated: Tue Jan 14 2025, 07:40:13 GMT+0000 (Coordinated Universal Time).
 - [Using useState for one-time initialisations in React Components](/react/one-time-initialisation-in-component.md)
 - [React Hooks in a Nutshell](/react/react-hooks.md)
 - [Handle a PDF in React](/react/render-pdf.md)
+- [Use callback ref functions instead of useEffect (when possible)](/react/useref-useeffect.md)
 
 ## shell
 
