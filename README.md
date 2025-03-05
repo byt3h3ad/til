@@ -6,7 +6,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Wed Mar 05 2025, 19:11:50 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Mar 05 2025, 20:00:27 GMT+0000 (Coordinated Universal Time).
 
 59 TILs so far:
 
@@ -17,6 +17,10 @@ Last updated: Wed Mar 05 2025, 19:11:50 GMT+0000 (Coordinated Universal Time).
 ## bash
 
 - [CDPATH: Easily Navigate Directories in the Terminal](/bash/cdpath-easily-navigate-directories-in-the-terminal.md)
+
+## chrome
+
+- [Chrome DevTools Shortcuts powered by the `$`](/chrome/devtools-shortcuts.md)
 
 ## css
 
@@ -57,7 +61,6 @@ Last updated: Wed Mar 05 2025, 19:11:50 GMT+0000 (Coordinated Universal Time).
 ## javascript
 
 - [Capitalise Initials](/javascript/capitalise-initials.md)
-- [Chrome DevTools Shortcuts powered by the `$`](/javascript/devtools-shortcuts.md)
 - [The English Alphabet as a String](/javascript/english-alphabets.md)
 - [Event Delegation in JavaScript](/javascript/event-delegation.md)
 - [How to Not Fill Up an `Array`](/javascript/filling-up-array.md)
