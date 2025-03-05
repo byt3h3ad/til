@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Wed Mar 05 2025, 20:00:27 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Mar 05 2025, 20:04:23 GMT+0000 (Coordinated Universal Time).
 
-59 TILs so far:
+60 TILs so far:
 
 ## astro
 
@@ -90,6 +90,7 @@ Last updated: Wed Mar 05 2025, 20:00:27 GMT+0000 (Coordinated Universal Time).
 - [Simplify Your Components with Finite State Machines and Derived States](/react/finite-state-machine.md)
 - [Common Reasons of Infinite Loops in React and How to Fix Them](/react/multiple-renders-and-fixes.md)
 - [Using useState for one-time initialisations in React Components](/react/one-time-initialisation-in-component.md)
+- [Simplifying React Provider Wrapping with Composition](/react/provider-composition.md)
 - [React Hooks in a Nutshell](/react/react-hooks.md)
 - [Handle a PDF in React](/react/render-pdf.md)
 - [Use callback ref functions instead of useEffect (when possible)](/react/useref-useeffect.md)
