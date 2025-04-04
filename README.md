@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Sat Mar 29 2025, 11:41:48 GMT+0000 (Coordinated Universal Time).
+Last updated: Fri Apr 04 2025, 20:11:48 GMT+0000 (Coordinated Universal Time).
 
-61 TILs so far:
+62 TILs so far:
 
 ## astro
 
@@ -74,6 +74,7 @@ Last updated: Sat Mar 29 2025, 11:41:48 GMT+0000 (Coordinated Universal Time).
 ## nextjs
 
 - [Debug Next.js Fetch Requests](/nextjs/debug-fetch-requests.md)
+- [Running `dev` and `prod` Server at the Same Time](/nextjs/dev-and-prod.md)
 - [Lottie animation in loading.tsx](/nextjs/lottie-loading.md)
 - [Tailwind helper to show current media query size](/nextjs/tailwind-indicator.md)
 
