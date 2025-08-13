@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Fri Apr 04 2025, 20:11:48 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Aug 13 2025, 20:13:47 GMT+0000 (Coordinated Universal Time).
 
-62 TILs so far:
+63 TILs so far:
 
 ## astro
 
@@ -38,6 +38,7 @@ Last updated: Fri Apr 04 2025, 20:11:48 GMT+0000 (Coordinated Universal Time).
 - [Editing Old Commits Using CLI or with Lazygit](/git/edit-old-commit.md)
 - [Show file difference in `git` style](/git/file-difference-in-git-style.md)
 - [Easier Code reviews with Git Colored Move Diffs](/git/git-colored-move-diffs.md)
+- [Quick and Dirty Way to Reset Your Fork to Match Upstream](/git/reset-fork-to-upstream.md)
 - [Update The URL Of A Remote](/git/update-the-url-of-a-remote.md)
 - [Using git offline](/git/using-git-offline.md)
 - [New Ways to Walk Through Past Commits in git](/git/walk-through-past-commits.md)
