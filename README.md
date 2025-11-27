@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Wed Aug 13 2025, 20:13:47 GMT+0000 (Coordinated Universal Time).
+Last updated: Thu Nov 27 2025, 01:11:01 GMT+0000 (Coordinated Universal Time).
 
-63 TILs so far:
+64 TILs so far:
 
 ## astro
 
@@ -71,6 +71,10 @@ Last updated: Wed Aug 13 2025, 20:13:47 GMT+0000 (Coordinated Universal Time).
 - [Sort Alphabetically](/javascript/sort-alphabetically.md)
 - [Sort Array of Numbers](/javascript/sort-numbers.md)
 - [Be informed of when a browser document is visible](/javascript/visibility-of-browser-document.md)
+
+## misc
+
+- [Taming Firefox’s New AI Features](/misc/disable-firefox-ai.md)
 
 ## nextjs
 
