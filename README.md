@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Thu Nov 27 2025, 01:11:01 GMT+0000 (Coordinated Universal Time).
+Last updated: Sat Jan 03 2026, 18:13:57 GMT+0000 (Coordinated Universal Time).
 
-64 TILs so far:
+65 TILs so far:
 
 ## astro
 
@@ -105,6 +105,10 @@ Last updated: Thu Nov 27 2025, 01:11:01 GMT+0000 (Coordinated Universal Time).
 ## shell
 
 - [Printing JSON in the Shell](/shell/printing-json.md)
+
+## sql
+
+- [Raw SQL Hacks for Fun and Profit](/sql/raw-sql-hacks.md)
 
 ## tailwind
 
