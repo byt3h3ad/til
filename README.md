@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Sat Jan 03 2026, 18:13:57 GMT+0000 (Coordinated Universal Time).
+Last updated: Sun Aug 30 2026, 11:18:23 GMT+0000 (Coordinated Universal Time).
 
-65 TILs so far:
+66 TILs so far:
 
 ## astro
 
@@ -109,6 +109,7 @@ Last updated: Sat Jan 03 2026, 18:13:57 GMT+0000 (Coordinated Universal Time).
 ## sql
 
 - [Raw SQL Hacks for Fun and Profit](/sql/raw-sql-hacks.md)
+- [SQLite as a document database](/sql/sqlite-as-a-document-database.md)
 
 ## tailwind
 
