@@ -44,7 +44,7 @@ jobs:
             // collect entries
             const files = await glob.create("./**/*.md").then(globber => globber.glob());
             const entries = files
-              .filter(name => !name.endsWith("/README.md")) // exclude README.md
+              .filter(name => !name.endsWith("/README.md") && !name.endsWith("/AGENTS.md")) // exclude generated and contributor documentation
               .sort()
               .map(name => name.split("/").slice(-2));
 
