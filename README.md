@@ -6,13 +6,14 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Sun Aug 30 2026, 11:38:55 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Sep 16 2026, 19:29:10 GMT+0000 (Coordinated Universal Time).
 
-68 TILs so far:
+70 TILs so far:
 
 ## ai
 
 - [Cosine Similarity and Normalized Embeddings](/ai/cosine-similarity-and-normalized-embeddings.md)
+- [KV Caches in LLMs](/ai/kv-cache-in-llms.md)
 - [RAG Is Simpler Than You Think](/ai/rag-is-simpler-than-you-think.md)
 
 ## astro
@@ -80,6 +81,7 @@ Last updated: Sun Aug 30 2026, 11:38:55 GMT+0000 (Coordinated Universal Time).
 ## misc
 
 - [Taming Firefox’s New AI Features](/misc/disable-firefox-ai.md)
+- [Small Programming Tricks](/misc/small-programming-tricks.md)
 
 ## nextjs
 
