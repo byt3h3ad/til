@@ -6,7 +6,7 @@ Tilde expansion only happens on unquoted words. This does **not** expand `~`:
 export PATH="$PATH:~/.local/bin/"
 ```
 
-`PATH` then contains a literal `~/.local/bin/`, which is a relative entry resolving to `./~/.local/bin/` in the current directory. Executables placed there get run instead of the intended ones.
+`PATH` then contains a literal `~/.local/bin/`, which is a relative entry resolving to `./~/.local/bin/` in the current directory. Since it is appended, it only catches commands not found earlier in `PATH`, but a writable `./~/.local/bin/` in any working directory can still get executed.
 
 Use `$HOME` instead:
 
@@ -14,7 +14,7 @@ Use `$HOME` instead:
 export PATH="$PATH:$HOME/.local/bin/"
 ```
 
-The unquoted `export PATH=$PATH:~/.local/bin` works in Bash and Zsh (tilde is expanded after `=` and each `:` in assignments), but it is fragile, e.g. whitespace breaks it.
+The unquoted `export PATH=$PATH:~/.local/bin` works in Bash and Zsh (tilde is expanded after `=` and each `:` in assignments), but it relies on shell-specific assignment rules, so it is fragile and less portable.
 
 Check for the problem:
 
