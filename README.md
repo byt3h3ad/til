@@ -6,7 +6,7 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Wed Oct 14 2026, 20:28:02 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Oct 14 2026, 20:29:29 GMT+0000 (Coordinated Universal Time).
 
 71 TILs so far:
 
