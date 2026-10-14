@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Wed Sep 16 2026, 19:29:10 GMT+0000 (Coordinated Universal Time).
+Last updated: Wed Oct 14 2026, 20:28:02 GMT+0000 (Coordinated Universal Time).
 
-70 TILs so far:
+71 TILs so far:
 
 ## ai
 
@@ -111,6 +111,7 @@ Last updated: Wed Sep 16 2026, 19:29:10 GMT+0000 (Coordinated Universal Time).
 
 ## shell
 
+- [Don't put a quoted tilde in PATH](/shell/dont-put-tilde-in-path.md)
 - [Printing JSON in the Shell](/shell/printing-json.md)
 
 ## sql
