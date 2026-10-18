@@ -13,7 +13,8 @@
 1. Run `git pull` before making any repository changes. The README workflow commits the refreshed index after each push to `main`; pulling first prevents a stale README from conflicting with the next content commit.
 2. Check that the example is valid for its documented tool or runtime when practical.
 3. Review recent commits before choosing a message. Content additions use `feat: <topic>/<file>.md`.
-4. Stage only the intended files, commit, and push to `main`.
+4. Show the user the written file (or a summary) and wait for explicit confirmation. Do not commit or push before then; fixes after a push cost an extra commit.
+5. After confirmation, stage only the intended files, commit, and push to `main`.
 
 ## Repository automation
 
