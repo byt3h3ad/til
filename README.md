@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Wed Oct 14 2026, 20:29:29 GMT+0000 (Coordinated Universal Time).
+Last updated: Sun Oct 18 2026, 07:10:01 GMT+0000 (Coordinated Universal Time).
 
-71 TILs so far:
+72 TILs so far:
 
 ## ai
 
@@ -67,6 +67,7 @@ Last updated: Wed Oct 14 2026, 20:29:29 GMT+0000 (Coordinated Universal Time).
 
 ## javascript
 
+- [Call Functions Without Parentheses via prepareStackTrace](/javascript/call-functions-without-parentheses.md)
 - [Capitalise Initials](/javascript/capitalise-initials.md)
 - [The English Alphabet as a String](/javascript/english-alphabets.md)
 - [Event Delegation in JavaScript](/javascript/event-delegation.md)
