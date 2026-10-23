@@ -6,9 +6,9 @@ I also keep collections of links I come across on [Raindrop](https://raindrop.io
 
 ---
 
-Last updated: Sun Oct 18 2026, 07:20:19 GMT+0000 (Coordinated Universal Time).
+Last updated: Fri Oct 23 2026, 21:19:41 GMT+0000 (Coordinated Universal Time).
 
-73 TILs so far:
+74 TILs so far:
 
 ## ai
 
@@ -72,6 +72,7 @@ Last updated: Sun Oct 18 2026, 07:20:19 GMT+0000 (Coordinated Universal Time).
 - [The English Alphabet as a String](/javascript/english-alphabets.md)
 - [Event Delegation in JavaScript](/javascript/event-delegation.md)
 - [How to Not Fill Up an `Array`](/javascript/filling-up-array.md)
+- [Lazy Pipelines with Iterator Helpers](/javascript/iterator-helpers.md)
 - [Pipe function in JavaScript](/javascript/pipe-function.md)
 - [Remove the Duplicate Elements from the Array of Objects](/javascript/remove-duplicates-from-array-of-objects.md)
 - [A Better Number() and Number.parseFloat()](/javascript/safe-number-parse.md)
